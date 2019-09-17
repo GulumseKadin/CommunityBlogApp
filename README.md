@@ -1,5 +1,5 @@
 # CommunityBlogApp
-### !!!! IMPORTANT !!!!  If u want to work, You must enable ur specific firebase and google.service.json file..  Sorry for the quality of the pictures
+### !!!! IMPORTANT !!!!  If u want to run this app, You must enable ur specific firebase and google.service.json file..  Sorry for the quality of the pictures
  
 
 ![CommunityBlogApp1](https://user-images.githubusercontent.com/28591504/65019041-1b887d00-d933-11e9-8434-1b45124f2f8a.png)
